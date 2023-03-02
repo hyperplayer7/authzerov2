@@ -29,7 +29,7 @@
 - bin/rails server
 
 ### Project URL
-<!-- - https://vite-project11.onrender.com/ -->
+- https://authzerov2.onrender.com/
 
 ### Github URL
 - https://github.com/hyperplayer7/authzerov2
@@ -41,4 +41,4 @@
 - https://render.com/docs/deploy-rails
 
 ### Next Iteration
-- Deploy to render - 
+- Deploy to render - DONE
