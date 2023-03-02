@@ -39,6 +39,7 @@
 - https://github.com/lazaronixon/authentication-zero
 - https://www.youtube.com/watch?v=p0OFgfsKF2I
 - https://render.com/docs/deploy-rails
+- https://www.youtube.com/watch?v=FQPlEnKav48
 
 ### Next Iteration
 - Deploy to render - DONE
