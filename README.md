@@ -20,6 +20,8 @@
 - Rails 7.0.4.2
 - authentication-zero 2.16.7
 - Postgres
+- Super Linter
+- Github Actions
 
 ### Commands Used / Process
 - bundle add authentication-zero
@@ -40,6 +42,8 @@
 - https://www.youtube.com/watch?v=p0OFgfsKF2I
 - https://render.com/docs/deploy-rails
 - https://www.youtube.com/watch?v=FQPlEnKav48
+- https://www.youtube.com/watch?v=BCrtoZ04L1Y
+- https://github.com/github/super-linter
 
 ### Next Iteration
 - Deploy to render - DONE
